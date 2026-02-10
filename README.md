@@ -382,27 +382,6 @@ print(f"Reorder Point: {reorder_point} units")
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**  
-Data Analyst | Supply Chain Analytics Specialist  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/demand-forecasting-erp/issues).
-
----
-
 ## ⭐ Show Your Support
 
 If this project helped you, please give it a ⭐️!
